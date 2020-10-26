@@ -7,7 +7,7 @@
 
 Sean Hotchkiss\n\n
 Los Angeles-based writer and life coach.\n\n
-        October 20, 2020\n
+        October 20, 2020\nr
 Back in 2008, when I began digging around in the self-help section for the first time, I discovered a therapist and author named John Bradshaw. Bradshaw was one of the foremost experts in the 1980s for healing of childhood trauma, and a bit of a rockstar in the recovery community: he had books, a workshop series and lectures. He even had a TV show on PBS where he\'d do therapy on the air. Bradshaw\'s book Homecoming really blew me away. I still remember staying up late to read and re-read it in my tiny, New York bedroom, mouthing silently, over and over: What. The. Hell?
 Bradshaw worked a lot with a theory that\'s since been confirmed millions of times over by patients in psychotherapy: When a child\'s feelings are repressed—especially anger and sadness—a person grows up to be an adult with an angry, hurt child inside him, and this child can contaminate the person\'s adult behavior. Bradshaw, along with other authorities of the day, came to refer to this psychic phenomenon as our /Inner Child.”
 “
@@ -40,4 +40,6 @@ Deploy Empathy\n
 Remain stoic\n
 Nothing can hurt you\n
 Start with one\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
